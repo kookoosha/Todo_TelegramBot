@@ -9,8 +9,8 @@
     "dev": "babel-node src/server.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kookoosha/ToDo-Challange-ssr-msk.git"
+    "type": "module",
+    "url": "git+https://github.com/kookoosha/todo"
   },
   "keywords": [],
   "author": "",
